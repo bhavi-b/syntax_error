@@ -1,3 +1,4 @@
+# face detection
 import cv2
 
 faceCascade = cv2.CascadeClassifier("Resources/haarcascades/haarcascade_frontalface_default.xml")
